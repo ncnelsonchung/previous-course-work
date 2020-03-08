@@ -1,0 +1,4 @@
+Number of samples = 10000
+Number of features = 784
+
+The evaluation metrics of different number of clusters are similar, it is difficult to find the most suitable number of clusters in this case.
